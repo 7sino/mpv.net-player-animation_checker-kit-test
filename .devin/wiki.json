@@ -1,0 +1,30 @@
+{
+  "repo_notes": [
+    {
+      "content": "アニメーション検査用のmpv.net player環境にフォーカスし、重要なフレーム移動・高精度キャッシュ・KMP2,Keyframe MPXライクなUX、そしてmpv.conf/mpvnet.confの専門的な原本ドキュメントの日本語設定解説を重視してください。現在の設定サンプルと add_user_scriptsの各原本ドキュメント、プロパティ等を徹底的に比較し、調査事例に間違えている箇所やサンプルの記述にミス、プロパティの設定、値に誤りがないかを重点的にチェックしwikiの参考ページとして展開してください。",
+      "author": "アニメーション現場エンジニア"
+    }
+  ],
+  "pages": [
+    {
+      "title": "mpv.conf/設定ファイル日本語解説＆推奨値",
+      "purpose": "mpv.confとmpvnet.confの重要設定・専門的ポイントを詳説（記述例付き）"
+    },
+    {
+      "title": "カスタムスクリプト＆拡張方法",
+      "purpose": "LuaやOSCによるフレーム優先機能拡張や実装TIPS"
+    },
+    {
+      "title": "カスタムスクリプト&拡張を踏まえてのinput.confの推奨設定 ",
+      "purpose": "LuaやOSCのキーバインドとmpv.conf,mpvnet.confで設定した比較用の設定切り換えキー設定について"
+    },
+    {
+      "title": "調査記録&現場ノウハウまとめ",
+      "purpose": "過去の検証・調査内容、エラー対応例などをmpv公式ドキュメントから引用、日本語で分かりやすく整理"
+    },
+    {
+      "title": "公式オプション解説日本語サマリー",
+      "purpose": "mpv原本ドキュメントやDOCS/~.rstやmeson.options,meson.build等の日本語訳・重要点まとめ"
+    }
+  ]
+}
