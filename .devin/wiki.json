@@ -11,8 +11,8 @@
       "purpose": "各機能別Luaスクリプトの配置例、競合しやすい設定とその回避策、.confファイルの統合管理方法"
     },
     {
-      "title": "scrub-seek-improved.lua改良手順＆フレームスクラブUI実装",
-      "purpose": "既存フレームワーク/スクリプト参考によるscrub-seek-improved.luaの改造・新規機能付加、画面上スクラブバー実装詳細（osc=no利用例含）"
+      "title": "scrub-seek-improved.lua改良手順＆全画面フレームスクラブUI実装",
+      "purpose": "既存フレームワーク/スクリプト参考によるscrub-seek-improved.luaの改造・新規機能付加、ゾーンに限定されない画面上スクラブバー実装詳細（C#のコード改修含む）、ウインドウドラッグ機能のオミット"
     },
     {
       "title": "Keyframe MP2/MPX互換UI・UXのLuaスクリプト実装例",
